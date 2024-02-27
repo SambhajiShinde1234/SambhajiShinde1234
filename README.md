@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SambhajiShinde1234
-- 🌱 I’m currently studying Master of Computer Application.
-- 💻 Working as Front end developer intern.  
-- 👉 I'm Aspiring Web Developer Looking For Entry Level Job.
+- 🌱 I have completed Master of Computer Application from IMCC college pune.
+- 💻 Currently working as Front end developer at CarbonMinus.  
 - Connect Me On LinkedIn👉 https://www.linkedin.com/in/sambhajishinde99/
 <!---
 SambhajiShinde1234/SambhajiShinde1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
